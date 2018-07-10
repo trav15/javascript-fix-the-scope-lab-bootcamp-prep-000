@@ -28,4 +28,4 @@ var funkyFunction = function funk1() {
 // NOTE: you only need to modify the code below this line.
 var funkMachine = funkyFunction
 var theFunk = funkyFunction(funkMachine);
-console.log(theFunk)
+console.log(funkMachine)
